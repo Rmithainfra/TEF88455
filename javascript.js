@@ -37,9 +37,9 @@ var viewer = pannellum.viewer('panorama',{
         "vaov":86,
         "minPitch":-25,
         "maxPitch": 25,
-        "yaw": 0,        
+        "yaw": 15,        
         "compass":true,
-        "northOffset":0  
+        "northOffset":-15  
       },
 
       "image-3":{
@@ -49,9 +49,9 @@ var viewer = pannellum.viewer('panorama',{
         "vaov":86,
         "minPitch":-25,
         "maxPitch": 25,
-        "yaw":0,            
+        "yaw":15,            
         "compass":true,
-        "northOffset":0    
+        "northOffset":-15  
     },
     "image-4":{
         "type": "equirectangular",
